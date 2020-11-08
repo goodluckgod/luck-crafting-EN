@@ -8,7 +8,7 @@ Config.Crafts = {
     ['Craft1'] = { 
         coords = vector3(461.08, -981.27, 29.69), -- Posistion of crafting.
         heading = 30, -- Heading of bench.
-        msg = 'Craftlamak için [E]', -- Text of 3DDrawText.
+        msg = 'Press [E] for crafting', -- Text of 3DDrawText.
     },
 }
 
