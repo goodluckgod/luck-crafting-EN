@@ -1,5 +1,3 @@
-# luck-crafting-EN
-
 # luck-crafting for ESX
 
 You should create folder on html folder
