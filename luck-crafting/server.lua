@@ -1,7 +1,7 @@
 ESX = nil
 local craft = {}
 
-local DISCORD_WEBHOOK = "https://discordapp.com/api/webhooks/766746299025850428/eaz1zCkoiIL7yAo1y-082jS5_3QzVQrKOZAbRN37ncy48Vf6rTbzuR67SI75A4POUY2S"
+local DISCORD_WEBHOOK = "WEBHOOK_HERE"
 local DISCORD_NAME = GetCurrentResourceName() 
 local DISCORD_IMAGE = "https://i.hizliresim.com/uhJ4s3.gif"
 
