@@ -214,7 +214,7 @@ OpenCraft = function(name)
                    SetNuiFocus(true, true)
                    SendNUIMessage({
                        action = "display",
-                       text = charname .. ' [' .. GetPlayerServerId(PlayerId()) .. '] Beceri: ' .. rep
+                       text = charname .. ' [' .. GetPlayerServerId(PlayerId()) .. '] Reputation: ' .. rep
                    })
                    
                    for i=1, #inventory, 1 do
